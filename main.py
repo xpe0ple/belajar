@@ -21,7 +21,7 @@ if __name__ == "__main__":
             case "posix": os.system("clear")
 
         print("SELAMAT DATANG DI PROGRAM")
-        print("DATABASE PERPUSTAKAAN")
+        print("DATABASE FILM")
         print("==========================")
 
         print(f"1. Read Data")
